@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Parstagram</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">6bVINBf6eBlG4cvIJrnthoBDQT5cfaJ08EDVljtP</string>
+    <string name="back4app_client_key">lSTN3D5M5DymCQXBJhGCKaLLuiBdaTRWpVVtLfC3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
